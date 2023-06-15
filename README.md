@@ -18,6 +18,8 @@ docker-compose pull<br />
 docker-compose down<br />
 docker-compose up -d<br />
 docker exec -ti <CONTAINER NAME> setup email add noreply@dionysbiz.xyz<br />
+docker exec -ti <CONTAINER NAME> setup alias add botalias@dionysbiz.xyz noreply@dionysbiz.xyz
+
 
 ## :page_with_curl: About
 

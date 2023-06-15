@@ -3,10 +3,6 @@
 Please refer to:
 https://docker-mailserver.github.io/docker-mailserver/latest/usage/
 
-Entry command:
-docker-compose pull
-docker-compose down
-docker-compose up -d
 
 [![ci::status]][ci::github] [![docker::pulls]][docker::hub] [![documentation::badge]][documentation::web]
 
@@ -16,6 +12,11 @@ docker-compose up -d
 [docker::hub]: https://hub.docker.com/r/mailserver/docker-mailserver/
 [documentation::badge]: https://img.shields.io/badge/DOCUMENTATION-GH%20PAGES-0078D4?style=for-the-badge&logo=git&logoColor=white
 [documentation::web]: https://docker-mailserver.github.io/docker-mailserver/latest/
+
+## Entry command:
+docker-compose pull<br />
+docker-compose down<br />
+docker-compose up -d<br />
 
 ## :page_with_curl: About
 

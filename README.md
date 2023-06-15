@@ -1,5 +1,11 @@
 # Docker Mailserver
 
+Please refer to:
+https://docker-mailserver.github.io/docker-mailserver/latest/usage/
+
+Entry command:
+odcker compose up
+
 [![ci::status]][ci::github] [![docker::pulls]][docker::hub] [![documentation::badge]][documentation::web]
 
 [ci::status]: https://img.shields.io/github/actions/workflow/status/docker-mailserver/docker-mailserver/default_on_push.yml?branch=master&color=blue&label=CI&logo=github&logoColor=white&style=for-the-badge

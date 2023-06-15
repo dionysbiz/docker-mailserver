@@ -17,6 +17,7 @@ https://docker-mailserver.github.io/docker-mailserver/latest/usage/
 docker-compose pull<br />
 docker-compose down<br />
 docker-compose up -d<br />
+docker exec -ti <CONTAINER NAME> setup email add noreply@dionysbiz.xyz<br />
 
 ## :page_with_curl: About
 

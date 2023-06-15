@@ -4,7 +4,9 @@ Please refer to:
 https://docker-mailserver.github.io/docker-mailserver/latest/usage/
 
 Entry command:
-odcker compose up
+docker-compose pull
+docker-compose down
+docker-compose up -d
 
 [![ci::status]][ci::github] [![docker::pulls]][docker::hub] [![documentation::badge]][documentation::web]
 
